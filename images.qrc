@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/image/welcome">
+        <file alias="welcome_fond">images/bande_film.png</file>
+        <file alias="welcome_icone">images/dessin-camera.jpg</file>
+    </qresource>
+    <qresource prefix="/image/edit">
+        <file alias="edit_undo">images/edit_undo.png</file>
+        <file alias="edit_redo">images/edit_redo.png</file>
+    </qresource>
+    <qresource prefix="/image/navigation">
+        <file alias="nav_next">images/go_next_black.png</file>
+        <file alias="nav_prev">images/go_previous_black.png</file>
+    </qresource>
+    <qresource prefix="/image/preview">
+        <file alias="prev_prev">images/left_arrow.png</file>
+        <file alias="prev_next">images/right_arrow.png</file>
+    </qresource>
+</RCC>
